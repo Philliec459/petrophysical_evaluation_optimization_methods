@@ -14,3 +14,4 @@ Our next step involves enabling the user to select the desired log curves using 
 
 Our newest Jupyter Notebook can be found at this site which, again is a fork of Ruben's original repository. 
 
+![Depth_Plot_Image](Ruben_Interactive.gif)
