@@ -13,6 +13,6 @@ We found Ruben's optimization method intriguing and valuable, leading us to make
 
 Our next step involves enabling the user to select the desired log curves using a Jupyter Notebook checkbox widget. This enhancement will provide more flexibility in curve selection, allowing users to eliminate certain log curves (e.g., RHOB) under poor hole conditions.
 
-Our newest Jupyter Notebook can be found at this site which, again is a fork of Ruben's original repository. 
+Our newest Jupyter Notebook can be found at this site which, again is a fork of Ruben's original repository. Thanks Ruben for giving us a great start.
 
 ![Depth_Plot_Image](Ruben_Interactive.gif)
