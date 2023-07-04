@@ -7,8 +7,8 @@ Ruben has presented a minimalist approach in this method, primarily focusing on 
 We found Ruben's optimization method intriguing and valuable, leading us to make a few enhancements to his code in our own fork of his GitHub repository. The changes we made include:
 
 
-    1  The User can now select the logging tools they want to use for the optimization.
-    2  Using the same logic we can also turn off the Bulk Density tool in badhole conditions.
+    1 The User can now select the logging tools they want to use for the optimization.
+    2 Using the same logic we can also turn off the Bulk Density tool in badhole conditions.
     3 In the process we automatically computing what Ruben refers to as "magical numbers." These numbers normalize the magnitudes of each log curve, ensuring equal weighting in the optimization process.
     4 Utilizing Jupyter Notebook's Python Widgets to create a slider, we can interactively adjustment of the depth plot within a discrete depth range. This feature can be particularly useful for generating depth plots at specific log scales using Matplotlib and allowing for scrolling through the data. 
  
